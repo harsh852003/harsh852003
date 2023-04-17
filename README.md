@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harsh852003
 - 👀 I’m interested in Web Devlopment 
-- 🌱 I’m currently learning DSA in c++ and Web developing
+- 🌱 I’m currently learning DSA in c++ and Web developing in Java Script
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
