@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning DSA in c++ and Web developing in Java Script
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- MY JAVA SCRIPT PROJECTS ARE:
+- 1. BASIC CALCULATOR MADE FROM JS.
+- 2. PASSWORD GENERATOR USING JS.
 
 <!---
 harsh852003/harsh852003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
