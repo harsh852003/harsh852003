@@ -7,6 +7,8 @@
 - 1. BASIC CALCULATOR MADE FROM JS.
 - 2. PASSWORD GENERATOR USING JS.
 - 3. TO DO LIST MAKING FROM JS(AS A REFERENCE W3 SCHOOLS)
+- JS USING REACT PROJECTS ARE :
+- 1. BASIC TEXTUTILS WEB APPLICATION 
 
 <!---
 harsh852003/harsh852003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
