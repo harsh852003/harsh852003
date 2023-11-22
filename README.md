@@ -3,7 +3,7 @@
 <h3 align="center"> CURRENTLY I AM STUDYING IN C.E BRANCH IN VGEC CHANDKHEDA. I AM INTERESTING IN WEB DEVELOPMENT. CURRENTLY I AM LEARNING NEXT JS FOR BACKEND DEVELOPER </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh852003&label=Profile%20views&color=0e75b6&style=flat" alt="harsh852003" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh852003&theme=onestar" alt="harsh852003" /></a> </p>
+
 
 - 🌱 I’m currently learning **NEXT JS AS A FRONTEND AND BACKEND DEVELOPER AND PRACTICING FOR COMPETITVE PROGRAMMING**
 - 💬 Ask me about **HTML,CSS,REACT,NODE JS,MONGODB **
@@ -49,8 +49,5 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=harsh852003&theme=panda" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harsh852003&theme=panda" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harsh852003&theme=panda" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harsh852003&theme=panda" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harsh852003&theme=panda" height="180em" />
+
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=harsh852003&theme=minimal"/>
