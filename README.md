@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Harsh Pandya</h1>
-<h3 align="center"> CURRENTLY I AM STUDYING IN C.E BRANCH IN VGEC CHANDKHEDA. I AM INTERESTING IN WEB DEVELOPMENT. CURRENTLY I AM LEARNING NEXT JS FOR BACKEND DEVELOPER </h3>
+<h3 align="center"> CURRENTLY I AM STUDYING IN C.E BRANCH IN VGEC CHANDKHEDA. I AM INTERESTING IN WEB DEVELOPMENT. CURRENTLY I AM LEARNING SHARE POINT FRAMEWORK</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh852003&label=Profile%20views&color=0e75b6&style=flat" alt="harsh852003" /> </p>
 
 
