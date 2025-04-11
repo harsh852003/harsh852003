@@ -5,11 +5,11 @@
 
 
 
-- 🌱 I’m currently learning **NEXT JS AS A FRONTEND AND BACKEND DEVELOPER AND PRACTICING FOR COMPETITVE PROGRAMMING**
+- 🌱 I’m currently learning **SharePoint Frame Work Which is give the functionality to create webparts using react js, it is a Microsoft 365 Apllication**
 - 💬 Ask me about **HTML,CSS,REACT,NODE JS,MONGODB **
 - 📫 How to reach me **pandyaharsh852003@gmail.com **
 - 👨‍💻 All of my projects are available at **https://github.com/harsh852003**
-- 📄 Know about my experiences **CURRENTLY I AM LEARNER**
+- 📄 Know about my experiences **CURRENTLY I AM JOIN  SYNOPTEK AS A SOFTWARE ENGINEER INTERN AND CURRENTLY I AM WORKING ON SHAREPOINT FRAMEWORK, ALSO I AM WORKING ON LIVE PROJECT ON POWER APPS **
 - ⚡ Fun fact ** GOAL ORIENTED, READY TO MAKING FRIENDS **
 
 <div> <a href="https://www.linkedin.com/in/HARSH PANDYA" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
