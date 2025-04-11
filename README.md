@@ -34,9 +34,6 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/power-apps.png" alt="PowerApps" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/microsoft-flow.png" alt="PowerAutomate" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/sharepoint.png" alt="SharePoint" width="40" height="40"/>
 </p>
 
 
